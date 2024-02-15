@@ -21,21 +21,19 @@
 .a {
     background-color: #003AF2;
     border-color: black;
-    width: 16vw;
-    height: 20vw;
+    width: 20%;
+    height: 70%;
     color: white;
-    margin-right: 2vw;
-    margin-left: 1vw;
+    margin-left: 50px;
 }
 
 .a:hover {
     background-color: #001e80;
     border-color: black;
-    width: 16vw;
-    height: 20vw;
+    width: 20%;
+    height: 70%;
     color: rgb(255, 0, 0);
-    margin-right: 2vw;
-    margin-left: 1vw;
+    margin-left: 50px;
 }
 
 /* Hello */
